@@ -1,0 +1,2 @@
+# Text-Clustering-Pilpres2024
+PROGRAM SKRIPSI MIQUEL YOSAFAT
